@@ -1,5 +1,5 @@
 # HR Database using MySQL
-I practiced my SQL skill using HR Database.
+I practiced my SQL skills using the HR Database.
 In this database, there are 2 tables. The office table contains information about offices. The employee table has information about people working in offices. There is 1 to  many relationships from offices to employees table. The employee table also has 1 too many relationships with itself. 
 
 ![image](https://github.com/yusufsjustit/HR-Database-using-MySQL/assets/125282550/318143f4-4d3d-477f-8038-ef2dc45da3da)
