@@ -2,6 +2,7 @@ DROP DATABASE IF EXISTS `sql_hr`;
 CREATE DATABASE `sql_hr`;
 USE `sql_hr`;
 
+---use first
 
 CREATE TABLE `offices` (
   `office_id` int(11) NOT NULL,
