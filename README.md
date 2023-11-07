@@ -1,25 +1,35 @@
-## Summary
+# HR Data Analysis Project
 
-Welcome to the HR Data Analysis project! This repository contains the documentation, SQL queries, and code for a comprehensive analysis of an HR dataset using MySQL. The project aims to provide valuable insights into various aspects of human resources, such as employee performance, attrition, and more.
+## Table of Contents
 
-## Project Overview
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Key Insights](#key-insights)
+- [Repository Contents](#repository-contents)
+- [Example Queris](#example-queries)
 
-**Objective:**
+## Introduction
+
+Welcome to the HR Data Analysis project! This repository houses the documentation, SQL queries, and code for a comprehensive analysis of an HR dataset using MySQL. This project aims to provide valuable insights into various aspects of human resources, such as employee performance, attrition, and more.
+
+## Objective
+
 The primary objective of this project is to perform data analysis on an HR dataset to help organizations gain a better understanding of their workforce and make data-driven decisions regarding employee management.
 
-**Data Source:**
+## Data Source
+
 The dataset used in this project consists of HR-related information, including employee details, performance metrics, and attrition data.
 
-**Tools Used:**
-- MySQL: MySQL was utilized for data storage, querying, and analysis, enabling us to leverage the power of relational databases.
-- SQL: SQL queries were written to extract and manipulate data from the HR dataset.
+## Tools Used
 
-**Key Highlights:**
-- Data Exploration: We conducted an in-depth exploration of the HR dataset, gaining insights into employee demographics, performance, and attrition.
-- SQL Queries: A series of SQL queries were designed to retrieve and transform data for analysis.
+- **MySQL:** MySQL was the core tool used for data storage, querying, and analysis, allowing us to leverage the power of relational databases.
+- **SQL Queries:** A series of SQL queries were designed to extract and manipulate data from the HR dataset.
 
-**Results:**
-The project resulted in actionable insights regarding employee performance, factors influencing attrition, and other HR-related metrics. These findings are presented in the project documentation.
+## Key Insights
+
+The project has resulted in actionable insights regarding employee performance, factors influencing attrition, and other HR-related metrics. These findings are presented in the project documentation.
 
 ## Repository Contents
 
@@ -27,10 +37,8 @@ The project resulted in actionable insights regarding employee performance, fact
 - **Documentation:** The documentation provides a detailed explanation of the data analysis process and the insights gained from the project.
 - **Data:** Raw and cleaned datasets, if applicable, are stored in this section.
 
+
 ## Example queries
-
-
-
 
 ![image](https://github.com/yusufsjustit/HR-Database-using-MySQL/assets/125282550/318143f4-4d3d-477f-8038-ef2dc45da3da)
 
